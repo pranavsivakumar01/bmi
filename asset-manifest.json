@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pranavsivakumar01/bmi.git/static/css/main.196c4f49.css",
+    "main.js": "/pranavsivakumar01/bmi.git/static/js/main.baeac4ec.js",
+    "static/js/453.ed3810f9.chunk.js": "/pranavsivakumar01/bmi.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/pranavsivakumar01/bmi.git/index.html",
+    "main.196c4f49.css.map": "/pranavsivakumar01/bmi.git/static/css/main.196c4f49.css.map",
+    "main.baeac4ec.js.map": "/pranavsivakumar01/bmi.git/static/js/main.baeac4ec.js.map",
+    "453.ed3810f9.chunk.js.map": "/pranavsivakumar01/bmi.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.196c4f49.css",
+    "static/js/main.baeac4ec.js"
+  ]
+}
